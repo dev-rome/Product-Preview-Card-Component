@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Product Card](/Users/dev-rome/Desktop/Screen Shot 2022-10-23 at 3.44.09 PM.png)
+![Product Card](./images/Screen%20Shot%202022-10-23%20at%203.44.09%20PM.png)
 
 ### Links
 
